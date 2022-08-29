@@ -11,3 +11,12 @@ h1,h3 {
     text-align: center;
     text-decoration: underline;
 }
+#t4{
+    font-size: 36px;
+}
+.parrafor{
+    color: brown;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: monospace;
+}
